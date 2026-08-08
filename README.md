@@ -1,140 +1,215 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Hi+%F0%9F%91%8B+I'm+Narendra+Anbazhagan;AI%2FML+%7C+Computer+Vision+%7C+Full-Stack+%7C+AR%2FVR;%E2%80%9CTechnology+for+real+world+impact%E2%80%9D" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=220&section=header&text=Narendra%20Anbazhagan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20%7C%20AR%2FVR&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real+problems;Computer+Vision+%7C+Speech+%7C+RAG+%7C+AR%2FVR;Turning+%22what+if%22+into+working+code" alt="Typing SVG"/>
 
 <br/>
-
-# 🚀 **Narendra Anbazhagan**
-
-### 🤖 AI/ML Engineer · Computer Vision · Full-Stack Developer · AR/VR Enthusiast
-
-**Final-year AIML undergraduate** building intelligent applications that solve real-world problems — from medical imaging & speech recognition to agriculture chatbots and immersive surgical simulation.
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **B.E. CSE (AIML)** @ K. S. Rangasamy College of Technology — CGPA **8.03/10**
-- 🔭 Currently **AI R&D Intern** at **IITM Pravartak Technologies Foundation** (Medical Imaging · Healthcare Simulation)
-- 🧠 Passionate about **Computer Vision, Speech Recognition, LLMs & RAG systems**
-- 🤝 Love collaborating on **AI + real-world impact** projects
-- 💬 Ask me about **Python, OpenCV, Whisper, LangChain, Unity, Spring Boot**
-- ⚡ Fun fact: I've spoken at **AR/VR workshops** and won a **game dev live challenge** 🎮
-
----
-
-## 🛠️ Tech Stack
-
-#### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-#### AI / ML / Deep Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-012169?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-#### LLMs / RAG / NLP
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logo=chroma&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFE000?style=for-the-badge)
-
-#### 3D / Simulation
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![AR/VR](https://img.shields.io/badge/AR%2FVR-1488CC?style=for-the-badge&logo=unity&logoColor=white)
-
-#### Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FAFAFA?style=for-the-badge&logo=uipath&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=narendraanbazhagann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendraanbazhagann&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=narendraanbazhagann&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🧠 **Telugu ASR with Whisper** | Fine-tuned OpenAI Whisper on a Telugu corpus → **WER reduced 249% → 12.6%** | Python, Hugging Face, Whisper, FP16 |
-| ✋ **Hand Gesture Recognition** | Real-time touch-free accessibility for disabled users | Python, OpenCV, CNN |
-| 🌾 **Cholan – Agri Assistant** | AI Telegram chatbot helping farmers with crop & weather queries | Python, ML, Telegram Bot |
-| 📄 **ChatWithPDF – RAG** | Context-aware answers from uploaded documents | LangChain, Pinecone, OpenAI, Streamlit |
-| 🩺 **Camera-Guided Ultrasound Sim** | AprilTag probe tracking + DICOM visualization | Python, OpenCV, IITM Pravartak |
-| 🥽 **Aegis XR – AR/VR Surgery Sim** | Immersive surgical training platform | Unity, C#, AR/VR |
-| 📊 **Agentic LLM Log Viewer** | React dashboard for visualizing agent execution logs | React.js, JSON parsing |
-| ⚔️ **Codegram** | Real-time 1v1 coding battle platform | Java, Spring Boot, React, WebSocket, MySQL |
-| 📋 **Flow** | Collaborative project & task management | Java, Spring Boot, React, MySQL |
-
-> 💡 *More projects are on the way — [check out my repos](https://github.com/narendraanbazhagann?tab=repositories)!*
-
----
-
-## 🏆 Achievements
-
-- 🏅 **MSME Smart Finalist** — Smart India Hackathon
-- 🎤 **AR/VR Workshop Presenter** — immersive tech in education & simulation
-- 🎮 **Game Development Workshop Winner** — live build challenge
-- 💻 **6+ National Hackathons** — real-time AI solutions under pressure
-- 🏢 **"A Day at Microsoft"** — hands-on sessions at MS Chennai & Bangalore (AI, Cloud, Innovation)
-- 📜 **Certifications:** Oracle DevOps Professional · Oracle AI Foundations · Google Cloud Generative AI
-
----
-
-## 💼 Work Experience
-
-| Role | Organization | Period |
-|------|--------------|--------|
-| 🔬 **AI Research & Development Intern** | IITM Pravartak Technologies Foundation | 2026 – Present |
-| ☕ **Java Full Stack Developer Intern** | EduSkills Academy (Virtual) | Apr 2026 – May 2026 |
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-anbazhagan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narendraanbazhagann)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendra.a2116@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://naren-portfolio.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendra.a2116@gmail.com)
+
+</div>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=narendraanbazhagann&style=flat-square&color=38BDF8" alt="Profile views"/>
 
----
+## 👨‍💻 About Me
 
-<p><i>"Passionate about applying AI to solve real-world problems — one model at a time."</i></p>
+```yaml
+name: Narendra Anbazhagan
+role: Final-year AIML Undergraduate
+degree: B.E. CSE (AIML) @ K. S. Rangasamy College of Technology — CGPA 8.03/10
+currently:
+  - 🔬 AI R&D Intern @ IITM Pravartak Technologies Foundation
+  - 🩺 Building medical imaging & healthcare simulation tools
+focus: [Computer Vision, Speech Recognition, LLMs, RAG Systems]
+fun_fact: "Spoken at AR/VR workshops & won a live game-dev challenge 🎮"
+currently_learning: "Agentic AI systems & multimodal pipelines"
+ask_me_about: [Python, OpenCV, Whisper, LangChain, Unity, Spring Boot]
+```
 
-**⭐ Star your favorites and let's build something amazing together! ⭐**
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,spring,cs&theme=dark" />
+
+<br/><br/>
+
+**AI · ML · Deep Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,huggingface&theme=dark" />
+
+<br/><br/>
+
+**LLMs · RAG · NLP**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logo=chromadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/><br/>
+
+**3D · Simulation · AR/VR**
+<br/>
+<img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" />
+<img src="https://img.shields.io/badge/AR%2FVR-1488CC?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<br/><br/>
+
+**Tools & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,supabase,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/UiPath-FAFAFA?style=for-the-badge&logo=uipath&logoColor=black"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Telugu ASR with Whisper
+Fine-tuned OpenAI Whisper on a Telugu speech corpus, cutting **WER from 249% → 12.6%**.
+<br/>`Python` `Hugging Face` `Whisper` `FP16`
+
+</td>
+<td width="50%" valign="top">
+
+### ✋ Hand Gesture Recognition
+Real-time, touch-free accessibility interface for users with mobility limitations.
+<br/>`Python` `OpenCV` `CNN`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Cholan — Agri Assistant
+AI-powered Telegram chatbot answering farmers' crop and weather questions on the go.
+<br/>`Python` `ML` `Telegram Bot API`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 ChatWithPDF (RAG)
+Context-aware Q&A over uploaded documents using retrieval-augmented generation.
+<br/>`LangChain` `Pinecone` `OpenAI` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Camera-Guided Ultrasound Sim
+AprilTag-based probe tracking fused with DICOM visualization for training simulations.
+<br/>`Python` `OpenCV` `IITM Pravartak`
+
+</td>
+<td width="50%" valign="top">
+
+### 🥽 Aegis XR — Surgical Sim
+Immersive AR/VR platform for surgical training and skill-building.
+<br/>`Unity` `C#` `AR/VR`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Codegram
+Real-time 1v1 competitive coding battle platform.
+<br/>`Java` `Spring Boot` `React` `WebSocket` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Flow
+Collaborative project and task management workspace.
+<br/>`Java` `Spring Boot` `React` `MySQL`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📈 **Agentic LLM Log Viewer** — a React dashboard for visualizing agent execution logs, built with `React.js` + JSON parsing
+
+💡 *More projects on the way — [explore all repos →](https://github.com/narendraanbazhagann?tab=repositories)*
+
+</div>
+
+<br/>
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🏅 | Achievement |
+|:---:|:---|
+| 🎯 | **MSME Smart Finalist** — Smart India Hackathon |
+| 🎤 | **AR/VR Workshop Presenter** — immersive tech in education & simulation |
+| 🎮 | **Game Development Challenge Winner** — live build competition |
+| 💻 | **6+ National Hackathons** — real-time AI solutions under pressure |
+| 🏢 | **"A Day at Microsoft"** — AI, Cloud & Innovation sessions in Chennai & Bangalore |
+| 📜 | Oracle DevOps Professional · Oracle AI Foundations · Google Cloud Generative AI |
+
+</div>
+
+<br/>
+
+## 💼 Experience Timeline
+
+```
+2026 ─────────────────────────────────────────────▶
+  │
+  ├── Apr–May   ☕ Java Full Stack Developer Intern @ EduSkills Academy (Virtual)
+  │
+  └── Present   🔬 AI R&D Intern @ IITM Pravartak Technologies Foundation
+                   Medical Imaging · Healthcare Simulation
+```
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=narendraanbazhagann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendraanbazhagann&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=narendraanbazhagann&theme=tokyonight&hide_border=true" height="175"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=narendraanbazhagann&theme=tokyo-night&hide_border=true" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=narendraanbazhagann&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Build Something
+
+*Passionate about applying AI to solve real-world problems — one model at a time.*
+
+**⭐ Star the repos you like — let's collaborate!**
+
+<img src="https://komarev.com/ghpvc/?username=narendraanbazhagann&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:38BDF8&height=120&section=footer" width="100%"/>
 
 </div>
