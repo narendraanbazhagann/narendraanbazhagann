@@ -1,189 +1,198 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=220&section=header&text=Narendra%20Anbazhagan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20%7C%20AR%2FVR&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1E3A8A,100:38BDF8&height=260&section=header&text=NARENDRA%20ANBAZHAGAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=training%20models.%20shipping%20products.%20one%20epoch%20at%20a%20time.&descAlignY=52&descSize=16&fontFamily=monospace" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real+problems;Computer+Vision+%7C+Speech+%7C+RAG+%7C+AR%2FVR;Turning+%22what+if%22+into+working+code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=%3E+loading+narendra.ai...+%E2%9C%93;%3E+modules%3A+cv+%7C+speech+%7C+llm+%7C+xr;%3E+status%3A+building+in+public;%3E+ready+for+inference." alt="Typing SVG"/>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-anbazhagan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narendraanbazhagann)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://naren-portfolio.me/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendra.a2116@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-anbazhagan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/narendraanbazhagann)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white)](http://naren-portfolio.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:narendra.a2116@gmail.com)
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+```python
+class Narendra:
+    def __init__(self):
+        self.role        = "Final-year AIML Undergraduate"
+        self.college      = "K. S. Rangasamy College of Technology (CGPA: 8.03/10)"
+        self.currently_at = "IITM Pravartak Technologies Foundation — AI R&D Intern"
+        self.domain       = ["Medical Imaging", "Healthcare Simulation"]
+        self.obsessions   = ["Computer Vision", "Speech Recognition", "LLMs", "RAG", "AR/VR"]
+        self.philosophy   = "Technology for real world impact"
 
-```yaml
-name: Narendra Anbazhagan
-role: Final-year AIML Undergraduate
-degree: B.E. CSE (AIML) @ K. S. Rangasamy College of Technology — CGPA 8.03/10
-currently:
-  - 🔬 AI R&D Intern @ IITM Pravartak Technologies Foundation
-  - 🩺 Building medical imaging & healthcare simulation tools
-focus: [Computer Vision, Speech Recognition, LLMs, RAG Systems]
-fun_fact: "Spoken at AR/VR workshops & won a live game-dev challenge 🎮"
-currently_learning: "Agentic AI systems & multimodal pipelines"
-ask_me_about: [Python, OpenCV, Whisper, LangChain, Unity, Spring Boot]
+    def debug_me(self):
+        return "ask me about Python, OpenCV, Whisper, LangChain, Unity or Spring Boot"
+
+me = Narendra()
 ```
 
 <br/>
 
-## 🧰 Tech Stack
+## 🧬 Model Registry — Tech Stack
 
 <div align="center">
 
-**Languages & Web**
+**`stage: input`** — Languages & Web
+<br/><img src="https://skillicons.dev/icons?i=python,java,c,cs,react,nodejs,spring&theme=dark"/>
+
+**`stage: train`** — AI / ML / Deep Learning
+<br/><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,huggingface&theme=dark"/>
+<br/><img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
+
+**`stage: reason`** — LLMs / RAG / NLP
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,spring,cs&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=flat-square&logo=chromadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-<br/><br/>
+**`stage: render`** — 3D / Simulation / AR-VR
+<br/><img src="https://skillicons.dev/icons?i=unity&theme=dark"/>
+<img src="https://img.shields.io/badge/AR%2FVR-1488CC?style=flat-square&logo=unity&logoColor=white"/>
 
-**AI · ML · Deep Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,huggingface&theme=dark" />
-
-<br/><br/>
-
-**LLMs · RAG · NLP**
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logo=chromadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<br/><br/>
-
-**3D · Simulation · AR/VR**
-<br/>
-<img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" />
-<img src="https://img.shields.io/badge/AR%2FVR-1488CC?style=for-the-badge&logo=unity&logoColor=white"/>
-
-<br/><br/>
-
-**Tools & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,supabase,mysql&theme=dark" />
-<img src="https://img.shields.io/badge/UiPath-FAFAFA?style=for-the-badge&logo=uipath&logoColor=black"/>
+**`stage: deploy`** — Tools & Cloud
+<br/><img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,supabase,mysql&theme=dark"/>
+<img src="https://img.shields.io/badge/UiPath-FAFAFA?style=flat-square&logo=uipath&logoColor=black"/>
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+**Proficiency weights** *(self-reported, gradient-descended over 3+ years)*
+
+| Skill | Confidence |
+|---|---|
+| Computer Vision (OpenCV, CNNs) | `██████████████████░░` 90% |
+| Python / ML Engineering | `██████████████████░░` 90% |
+| LLMs / RAG / LangChain | `████████████████░░░░` 80% |
+| Full-Stack (React, Spring Boot) | `███████████████░░░░░` 75% |
+| Unity / AR-VR | `██████████████░░░░░░` 70% |
+| Speech (Whisper / ASR) | `█████████████████░░░` 85% |
+
+<br/>
+
+## 📇 Featured Model Cards
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-### 🧠 Telugu ASR with Whisper
-Fine-tuned OpenAI Whisper on a Telugu speech corpus, cutting **WER from 249% → 12.6%**.
-<br/>`Python` `Hugging Face` `Whisper` `FP16`
+**🧠 telugu-asr-whisper**
+> Fine-tuned `openai/whisper` on a Telugu speech corpus for low-resource ASR.
 
-</td>
-<td width="50%" valign="top">
+`task:` speech-recognition &nbsp;·&nbsp; `metric:` WER 249%→**12.6%**
+`stack:` Python, Hugging Face, FP16
 
-### ✋ Hand Gesture Recognition
-Real-time, touch-free accessibility interface for users with mobility limitations.
-<br/>`Python` `OpenCV` `CNN`
+</td><td width="50%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**✋ gesture-vision-access**
+> Real-time, touch-free CNN interface built for accessibility-first UX.
 
-### 🌾 Cholan — Agri Assistant
-AI-powered Telegram chatbot answering farmers' crop and weather questions on the go.
-<br/>`Python` `ML` `Telegram Bot API`
+`task:` gesture-recognition &nbsp;·&nbsp; `metric:` real-time inference
+`stack:` Python, OpenCV, CNN
 
-</td>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 
-### 📄 ChatWithPDF (RAG)
-Context-aware Q&A over uploaded documents using retrieval-augmented generation.
-<br/>`LangChain` `Pinecone` `OpenAI` `Streamlit`
+**🌾 cholan-agri-assistant**
+> Telegram-native chatbot answering farmers' crop & weather questions in the field.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`task:` conversational-ai &nbsp;·&nbsp; `channel:` Telegram
+`stack:` Python, ML, Bot API
 
-### 🩺 Camera-Guided Ultrasound Sim
-AprilTag-based probe tracking fused with DICOM visualization for training simulations.
-<br/>`Python` `OpenCV` `IITM Pravartak`
+</td><td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+**📄 chatwithpdf-rag**
+> Retrieval-augmented Q&A engine grounded in user-uploaded documents.
 
-### 🥽 Aegis XR — Surgical Sim
-Immersive AR/VR platform for surgical training and skill-building.
-<br/>`Unity` `C#` `AR/VR`
+`task:` retrieval-qa &nbsp;·&nbsp; `vector-db:` Pinecone
+`stack:` LangChain, OpenAI, Streamlit
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 
-### ⚔️ Codegram
-Real-time 1v1 competitive coding battle platform.
-<br/>`Java` `Spring Boot` `React` `WebSocket` `MySQL`
+**🩺 ultrasound-camera-sim**
+> AprilTag probe tracking fused with DICOM rendering for surgical training rigs.
 
-</td>
-<td width="50%" valign="top">
+`task:` medical-simulation &nbsp;·&nbsp; `org:` IITM Pravartak
+`stack:` Python, OpenCV, AprilTag
 
-### 📋 Flow
-Collaborative project and task management workspace.
-<br/>`Java` `Spring Boot` `React` `MySQL`
+</td><td width="50%" valign="top">
 
-</td>
-</tr>
+**🥽 aegis-xr-surgical-sim**
+> Immersive AR/VR platform for procedural surgical skill-building.
+
+`task:` xr-simulation &nbsp;·&nbsp; `engine:` Unity
+`stack:` Unity, C#, AR/VR
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**⚔️ codegram**
+> Real-time 1v1 competitive coding battle arena with live match state.
+
+`task:` realtime-multiplayer &nbsp;·&nbsp; `transport:` WebSocket
+`stack:` Java, Spring Boot, React, MySQL
+
+</td><td width="50%" valign="top">
+
+**📋 flow**
+> Collaborative project & task management workspace for small teams.
+
+`task:` productivity-tooling &nbsp;·&nbsp; `stack:` Java, Spring Boot, React, MySQL
+
+</td></tr>
 </table>
 
 <div align="center">
 
-📈 **Agentic LLM Log Viewer** — a React dashboard for visualizing agent execution logs, built with `React.js` + JSON parsing
+`📊 agentic-llm-log-viewer` — React dashboard visualizing multi-step agent execution traces · `React.js` `JSON`
 
-💡 *More projects on the way — [explore all repos →](https://github.com/narendraanbazhagann?tab=repositories)*
+*more checkpoints being trained → [browse the full registry](https://github.com/narendraanbazhagann?tab=repositories)*
 
 </div>
 
 <br/>
 
-## 🏆 Achievements & Recognition
+## 🕹️ Achievements Unlocked
 
 <div align="center">
 
-| 🏅 | Achievement |
-|:---:|:---|
-| 🎯 | **MSME Smart Finalist** — Smart India Hackathon |
-| 🎤 | **AR/VR Workshop Presenter** — immersive tech in education & simulation |
-| 🎮 | **Game Development Challenge Winner** — live build competition |
-| 💻 | **6+ National Hackathons** — real-time AI solutions under pressure |
-| 🏢 | **"A Day at Microsoft"** — AI, Cloud & Innovation sessions in Chennai & Bangalore |
-| 📜 | Oracle DevOps Professional · Oracle AI Foundations · Google Cloud Generative AI |
+<img src="https://img.shields.io/badge/🎯_MSME_Smart_Finalist-Smart_India_Hackathon-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎤_Workshop_Presenter-AR%2FVR_in_Education-8B5CF6?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/🎮_Live_Build_Winner-GameDev_Challenge-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_6%2B_Hackathons-National_Level-8B5CF6?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/🏢_A_Day_at_Microsoft-Chennai_%26_Bangalore-38BDF8?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Oracle-DevOps_Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## 💼 Experience Timeline
+## 🛤️ Training Log — Experience
 
-```
-2026 ─────────────────────────────────────────────▶
-  │
-  ├── Apr–May   ☕ Java Full Stack Developer Intern @ EduSkills Academy (Virtual)
-  │
-  └── Present   🔬 AI R&D Intern @ IITM Pravartak Technologies Foundation
-                   Medical Imaging · Healthcare Simulation
+```text
+epoch[2026] ─────────────────────────────────────────────────────────
+  Apr → May   ☕ Java Full-Stack Developer Intern · EduSkills Academy
+              loss: learning curve steep · optimizer: Spring Boot + React
+
+  Present     🔬 AI R&D Intern · IITM Pravartak Technologies Foundation
+              domain: medical imaging × healthcare simulation
+              status: 🟢 training in progress
 ```
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📡 Live Telemetry
 
 <div align="center">
 
@@ -202,14 +211,15 @@ Collaborative project and task management workspace.
 
 <div align="center">
 
-## 🤝 Let's Build Something
-
-*Passionate about applying AI to solve real-world problems — one model at a time.*
-
-**⭐ Star the repos you like — let's collaborate!**
+```text
+>>> inference complete.
+>>> output: "Passionate about applying AI to solve real-world 
+             problems — one model at a time."
+>>> ⭐ star a repo you liked, or open a PR — let's ship something.
+```
 
 <img src="https://komarev.com/ghpvc/?username=narendraanbazhagann&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:38BDF8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:0F172A&height=140&section=footer" width="100%"/>
 
 </div>
