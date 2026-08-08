@@ -74,85 +74,98 @@ me = Narendra()
 
 <br/>
 
-## 📇 Featured Model Cards
+## 🚀 Things I've Built
 
-<table>
-<tr><td width="50%" valign="top">
+<br/>
 
-**🧠 telugu-asr-whisper**
-> Fine-tuned `openai/whisper` on a Telugu speech corpus for low-resource ASR.
+<img src="https://img.shields.io/badge/🧠_SPEECH_%2F_ASR-0F172A?style=flat-square"/>
 
-`task:` speech-recognition &nbsp;·&nbsp; `metric:` WER 249%→**12.6%**
-`stack:` Python, Hugging Face, FP16
+### Telugu ASR with Whisper
+Fine-tuned OpenAI's Whisper on a Telugu speech corpus for low-resource speech recognition, dragging Word Error Rate down from **249% → 12.6%**.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-</td><td width="50%" valign="top">
+<br/>
 
-**✋ gesture-vision-access**
-> Real-time, touch-free CNN interface built for accessibility-first UX.
+<img src="https://img.shields.io/badge/✋_COMPUTER_VISION-0F172A?style=flat-square"/>
 
-`task:` gesture-recognition &nbsp;·&nbsp; `metric:` real-time inference
-`stack:` Python, OpenCV, CNN
+### Hand Gesture Recognition
+Real-time, touch-free control interface built to give accessible, hands-off computer control to users with mobility limitations.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
-</td></tr>
-<tr><td width="50%" valign="top">
+<br/>
 
-**🌾 cholan-agri-assistant**
-> Telegram-native chatbot answering farmers' crop & weather questions in the field.
+<img src="https://img.shields.io/badge/🌾_CONVERSATIONAL_AI-0F172A?style=flat-square"/>
 
-`task:` conversational-ai &nbsp;·&nbsp; `channel:` Telegram
-`stack:` Python, ML, Bot API
+### Cholan — Agri Assistant
+An AI-powered Telegram chatbot that helps farmers get quick, reliable answers on crop care and weather conditions, right from their phone.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
 
-</td><td width="50%" valign="top">
+<br/>
 
-**📄 chatwithpdf-rag**
-> Retrieval-augmented Q&A engine grounded in user-uploaded documents.
+<img src="https://img.shields.io/badge/📄_RAG-0F172A?style=flat-square"/>
 
-`task:` retrieval-qa &nbsp;·&nbsp; `vector-db:` Pinecone
-`stack:` LangChain, OpenAI, Streamlit
+### ChatWithPDF
+A retrieval-augmented Q&A tool that gives grounded, context-aware answers straight from any document you upload.
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-</td></tr>
-<tr><td width="50%" valign="top">
+<br/>
 
-**🩺 ultrasound-camera-sim**
-> AprilTag probe tracking fused with DICOM rendering for surgical training rigs.
+<img src="https://img.shields.io/badge/🩺_MEDICAL_IMAGING-0F172A?style=flat-square"/>
 
-`task:` medical-simulation &nbsp;·&nbsp; `org:` IITM Pravartak
-`stack:` Python, OpenCV, AprilTag
+### Camera-Guided Ultrasound Simulator
+AprilTag-based probe tracking fused with live DICOM visualization, built as a training tool for ultrasound-guided procedures.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/IITM_Pravartak-38BDF8?style=flat-square"/>
 
-</td><td width="50%" valign="top">
+<br/>
 
-**🥽 aegis-xr-surgical-sim**
-> Immersive AR/VR platform for procedural surgical skill-building.
+<img src="https://img.shields.io/badge/🥽_AR%2FVR-0F172A?style=flat-square"/>
 
-`task:` xr-simulation &nbsp;·&nbsp; `engine:` Unity
-`stack:` Unity, C#, AR/VR
+### Aegis XR — Surgical Training Sim
+An immersive AR/VR platform for procedural surgical training, designed to make skill-building safer and more repeatable.
+<br/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/AR%2FVR-1488CC?style=flat-square"/>
 
-</td></tr>
-<tr><td width="50%" valign="top">
+<br/>
 
-**⚔️ codegram**
-> Real-time 1v1 competitive coding battle arena with live match state.
+<img src="https://img.shields.io/badge/⚔️_REALTIME-0F172A?style=flat-square"/>
 
-`task:` realtime-multiplayer &nbsp;·&nbsp; `transport:` WebSocket
-`stack:` Java, Spring Boot, React, MySQL
+### Codegram
+A real-time 1v1 competitive coding battle platform where two players race to solve the same problem live.
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-</td><td width="50%" valign="top">
+<br/>
 
-**📋 flow**
-> Collaborative project & task management workspace for small teams.
+<img src="https://img.shields.io/badge/📋_PRODUCTIVITY-0F172A?style=flat-square"/>
 
-`task:` productivity-tooling &nbsp;·&nbsp; `stack:` Java, Spring Boot, React, MySQL
+### Flow
+A collaborative project and task management workspace built for small teams to plan, assign, and track work together.
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-</td></tr>
-</table>
+<br/>
+
+<img src="https://img.shields.io/badge/📊_DASHBOARD-0F172A?style=flat-square"/>
+
+### Agentic LLM Log Viewer
+A React dashboard for visualizing multi-step agent execution logs, making complex agent traces easy to inspect and debug.
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+
+<br/>
 
 <div align="center">
 
-`📊 agentic-llm-log-viewer` — React dashboard visualizing multi-step agent execution traces · `React.js` `JSON`
-
-*more checkpoints being trained → [browse the full registry](https://github.com/narendraanbazhagann?tab=repositories)*
+*more projects shipping soon → [browse the full list of repos](https://github.com/narendraanbazhagann?tab=repositories)*
 
 </div>
+
+<br/>
 
 <br/>
 
